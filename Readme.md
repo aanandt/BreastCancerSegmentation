@@ -1,4 +1,4 @@
-0) Unzip the folder. There are two folders such as Dataset, and Src.
+
 
 1) Download the BUSI, Dataset_B, and STU and keep it in the respective folders in Dataset folder. Follow the same dataset directory structure as given in the google drive. Link for downloading the dataset:- https://drive.google.com/drive/folders/1EDgGbGkbeva0npb-gL2EBGtIRq_fiUJt?usp=sharing
 
